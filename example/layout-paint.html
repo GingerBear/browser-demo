@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+  <h1>hello</h1>
+  <script>
+    setTimeout(function() {
+
+      var h1 = document.querySelector('h1');
+
+      window.getComputedStyle(h1).padding;
+      h1.style.padding = '10px';
+
+      setTimeout(function() {
+        window.getComputedStyle(h1).border;
+        h1.style.border = '1px solid red';
+      }, 0);
+
+    }, 1000);
+  </script>
+</body>
+</html>
