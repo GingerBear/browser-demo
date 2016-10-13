@@ -5,7 +5,7 @@
 - curiosity
 - may sometimes help us web developers
 
-<img width="1065" alt="screen shot 2016-10-13 at 12 36 16 am" src="https://cloud.githubusercontent.com/assets/902357/19347240/bdd402f0-9115-11e6-9da7-e9af37dcde93.png">
+<img width="941" alt="screen shot 2016-10-13 at 10 09 02 am" src="https://cloud.githubusercontent.com/assets/902357/19352289/554fb388-912d-11e6-81c6-42bdf8b9662b.png">
 
 ## network
 DNS lookup
