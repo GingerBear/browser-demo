@@ -35,6 +35,7 @@ Download Assets
 - images
 - font
 
+example 
 - [Render blocked by CSS example](http://localhost:8080/example/blocking-css.html)
 - [DOM blocked JS example](http://localhost:8080/example/blocking-css.html)
 - [JS blocked by CSS example](http://localhost:8080/example/blocking-css-js.html)
