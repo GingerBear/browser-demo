@@ -69,7 +69,7 @@ example
 
 <img width="908" alt="screen shot 2016-10-13 at 7 34 21 am" src="https://cloud.githubusercontent.com/assets/902357/19347590/921995d8-9117-11e6-9d02-82ae14bbeda5.png">
 
-- [example of devtools timeline]
+- [example of devtools timeline](http://localhost:8080/example/layout-paint.html)
 
 - run js
   - blocking the DOM parsing (unless async)
