@@ -35,10 +35,10 @@ Download Assets
 - images
 - font
 
-[Render blocked by CSS example](http://localhost:8080/example/blocking-css.html)
-[DOM blocked JS example](http://localhost:8080/example/blocking-css.html)
-[JS blocked by CSS example](http://localhost:8080/example/blocking-css-js.html)
-[preload scan example](http://localhost:8080/example/blocking-css-js.html)
+- [Render blocked by CSS example](http://localhost:8080/example/blocking-css.html)
+- [DOM blocked JS example](http://localhost:8080/example/blocking-css.html)
+- [JS blocked by CSS example](http://localhost:8080/example/blocking-css-js.html)
+- [preload scan example](http://localhost:8080/example/blocking-css-js.html)
 
 
 ## parse, render (render engine) and run js (js engine)
@@ -62,16 +62,13 @@ Download Assets
 
 
 - render on the screen
-  - build the render tree by DOM and CSSOM
-  (visusl representation of the page elements, like with, hight and position )
+  - build the render tree by DOM and CSSOM (visusl representation of the page elements, like with, hight and position )
   - layout (find the exact size and positon for each elements)
   - paint (render the pixels to the screen)
 
 <img width="908" alt="screen shot 2016-10-13 at 7 34 21 am" src="https://cloud.githubusercontent.com/assets/902357/19347590/921995d8-9117-11e6-9d02-82ae14bbeda5.png">
 
-
-
-[example of devtools timeline]
+- [example of devtools timeline]
 
 - run js
   - blocking the DOM parsing (unless async)
